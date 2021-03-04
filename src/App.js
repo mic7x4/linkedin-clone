@@ -11,11 +11,10 @@ function App() {
       {/* Body */}
       <div className="app__body">
         <Sidebar/>
-      </div>
-        {/* Slider */}
         {/* Feed */}
         {/* Widgets */}
       {/* Footer */}
+      </div>
     </div>
   );
 }
