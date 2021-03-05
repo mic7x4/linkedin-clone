@@ -14,7 +14,7 @@ function Sidebar() {
         <div className="sidebar">
             <div className="sidebar__top">
                 <img src="https://images.unsplash.com/photo-1470225620780-dba8ba36b745?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80" alt=""/>
-                <Avatar className="sidebar__avatar"/>
+                <Avatar src="https://pbs.twimg.com/profile_images/1359436602024599554/dLKHeiWF_400x400.jpg" className="sidebar__avatar"/>
                 <h2>Michel Ndabaga</h2>
                 <h4>crook@gmail.com</h4>
             </div>
